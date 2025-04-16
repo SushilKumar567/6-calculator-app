@@ -8,8 +8,8 @@
 }
 
 .calculator {
-  width: 350px;
-  height: 625px;
+  width: 375px;
+  height: 90%;
   border-radius: 25px;
   background-color: #fff;
   overflow: hidden;
