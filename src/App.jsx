@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import "./Media.css";
 
 export default function App() {
   const [expression, setExpression] = useState("");
